@@ -7,6 +7,7 @@
   let dDay = moment("2022-03-19");
   let today = moment().startOf("day");
   let diff = today.diff(dDay, "days");
+  console.log(today);
 </script>
 
 <style>
@@ -26,6 +27,10 @@
 <div class="text-center">
   <p>
     <span class="text-sm text-red-500 font-semibold mr-2">D-day</span>
-    예식일이 {Math.abs(diff) > 0 ? Math.abs(diff) : 0}일 남았습니다.
+    {#if dDay > today}
+      예식일이 {Math.abs(diff)}일 남았습니다.
+    {:else}
+      예식일이 {Math.abs(diff)}일 지났습니다.
+    {/if}
   </p>
 </div>
