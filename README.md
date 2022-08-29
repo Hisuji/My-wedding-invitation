@@ -2,7 +2,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c07f7619-fc6a-4f1b-b9e6-b00eb2b8f2c3/deploy-status)](https://app.netlify.com/sites/sjwwlov/deploys)
 ---
 
-## 나의 모바일 청첨장
+## 나의 모바일 청첩장
 My Wedding day❤️
 
 
