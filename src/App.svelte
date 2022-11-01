@@ -4,7 +4,7 @@
   import Calendar from "@/components/Calendar.svelte";
   import Gallery from "@/components/Gallery.svelte";
   import Place from "@/components/Place.svelte";
-  import Contact from "@/components/Contact.svelte";
+  import Contect from "@/components/Contect.svelte";
   import Notifications from "svelte-notifications";
   import Footer from "@/components/Footer.svelte";
 
@@ -35,7 +35,7 @@
     <Calendar flowerSrc="{flowerSrc}" />
     <Gallery flowerSrc="{flowerSrc}" />
     <Place flowerSrc="{flowerSrc}" />
-    <Contact flowerSrc="{flowerSrc}" />
+    <Contect flowerSrc="{flowerSrc}" />
     <Footer />
   </main>
 </Notifications>
