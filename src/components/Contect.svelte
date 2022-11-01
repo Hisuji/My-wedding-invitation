@@ -98,8 +98,8 @@
 <div class="mb-20">
   <Accordion>
     <AccordionItem bind:expanded class="showHide">
-      <strong slot="title" class="flex justify-between text-base"
-        >신랑측 계좌번호
+      <strong slot="title" class="flex justify-between text-base">
+        신랑측 계좌번호
         <Fa
           size="lg"
           color="#F9E79F"
@@ -125,8 +125,8 @@
       </div>
     </AccordionItem>
     <AccordionItem bind:upDown on:click="{handleClick}" class="showHide">
-      <strong slot="title" class="flex justify-between text-base"
-        >신부측 계좌번호
+      <strong slot="title" class="flex justify-between text-base">
+        신부측 계좌번호
         <Fa
           size="lg"
           color="#F9E79F"
@@ -138,7 +138,8 @@
         <p class="text-sm">
           기업은행 <sapn bind:this="{btnCopyAccountWoman}"
             >SVELTE_APP_DAD_ACCOUNT_NUMBER</sapn
-          > (김인수)
+          >
+          (김인수)
         </p>
         <Button
           color="secondary"
