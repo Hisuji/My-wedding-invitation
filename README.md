@@ -12,7 +12,7 @@ My Wedding day❤️
 ✍️ Stack
 ---
 <img src="https://img.shields.io/badge/svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white"> <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/kakao api-FFCD00?style=for-the-badge&logo=kakao&logoColor=white">
-
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
 
 
 😍 preview
