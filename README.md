@@ -19,7 +19,7 @@ My Wedding day❤️
 ---
 | welcome |invitation |
 | ---------- | ---------- | 
-|<p align="center"><img src="https://user-images.githubusercontent.com/47530310/199246799-95269c28-81c4-4e08-abe3-5a863d1ba882.jpg" width="45%"></p>|<p align="center"><img src="https://user-images.githubusercontent.com/47530310/199250715-7b8accd8-9b41-4f8a-a5ea-8438042d033b.jpg" width="50%"></p>|
+|<p align="center"><img src="https://user-images.githubusercontent.com/47530310/199246799-95269c28-81c4-4e08-abe3-5a863d1ba882.jpg" width="45%"></p>|<p align="center"><img src="https://user-images.githubusercontent.com/47530310/200121394-2cba58e5-2063-4392-bc4e-2f4f14a8be03.jpg" width="50%"></p>|
 
 | calendar |gallery |
 | ---------- | ---------- | 
@@ -28,4 +28,4 @@ My Wedding day❤️
 
 | place | contect |
 | ---------- |  ---------- | 
-|<p align="center"><img src="https://user-images.githubusercontent.com/47530310/199249492-e2a480ef-8c3a-40d2-8e0b-0606bf99cb92.jpg" width="50%"></p>|<p align="center"><img src="https://user-images.githubusercontent.com/47530310/199251369-2051107c-bc87-4d35-b478-96fea5a88034.jpg" width="45%"></p>|
+|<p align="center"><img src="https://user-images.githubusercontent.com/47530310/199249492-e2a480ef-8c3a-40d2-8e0b-0606bf99cb92.jpg" width="50%"></p>|<p align="center"><img src="https://user-images.githubusercontent.com/47530310/200121408-4a6b10d5-c1ee-47fd-aead-2365230dd018.jpg" width="45%"></p>|
